@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\estructuras.h(75): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\estructuras.h(76): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\estructuras.h(117): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\estructuras.h(223): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\estructuras.h(283): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\estructuras.h(284): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\main.cpp(89): warning C4305: 'argumento': truncamiento de 'double' a 'GLclampf'
+c:\users\andres\documents\opengl proyects\laboratoriospooplantillaopengl\opengl original\main.cpp(119): warning C4060: la instrucción switch no contiene etiquetas 'case' ni 'default'
+  OpenGL Original.vcxproj -> C:\Users\Andres\Documents\OpenGL Proyects\LaboratoriosPOOPlantillaOpenGL\Debug\OpenGL Original.exe
+  OpenGL Original.vcxproj -> C:\Users\Andres\Documents\OpenGL Proyects\LaboratoriosPOOPlantillaOpenGL\Debug\OpenGL Original.pdb (Full PDB)
